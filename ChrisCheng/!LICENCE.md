@@ -13,10 +13,12 @@ Due to the nature of this project, should you be using this project in any capac
 * You **must have explicit permission by the affected user(s) that such monitoring is acceptable**.
  * The granted permission **must be visible to the public at large in some manner** - a sign in-game stating the following in public view is sufficient:
   
-
+```
      OK to be
 	monitored
 	
 	[username]
+```
+
 * Affected users **must also have the ability to revoke the permission as they please** for whatever reason.
  * As soon as permission is revoked, you **must stop monitoring the user as soon as you recieve notice of such**.
